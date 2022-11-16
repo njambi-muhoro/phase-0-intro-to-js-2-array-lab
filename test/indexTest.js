@@ -36,6 +36,8 @@ describe('index.js', function () {
       });
     });
 
+
+    
     describe('destructivelyRemoveFirstCat()', function () {
       it('removes the first cat from the cats array', function () {
         destructivelyRemoveFirstCat();
